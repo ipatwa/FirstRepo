@@ -1,2 +1,4 @@
 # FirstRepo
-im gonna write my first code 
+
+im gonna write my first code
+hello ssdg
